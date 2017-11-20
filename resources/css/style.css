@@ -15,3 +15,22 @@ h1 {
   font-size: 18px;
   text-decoration: underline;
 }
+
+#Process h2{
+  font-size: 23px;
+  font-weight: bold;
+}
+#Process h3{
+  font-size: 23px;
+}
+
+#Process p{
+  font-size:14px;
+}
+
+#Designed h2{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+}
