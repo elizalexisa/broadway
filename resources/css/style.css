@@ -34,3 +34,9 @@ h1 {
   font-size: 23px;
   font-weight: bold;
 }
+#foot {
+  color: white;
+  text-align: left;
+  font-size: 11px;
+  background-color: dimgray;
+}
